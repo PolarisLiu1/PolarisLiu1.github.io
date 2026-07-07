@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master’s student at [USTC](https://en.ustc.edu.cn/), supervised by [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) in the [BDAA Lab](https://bigdata.ustc.edu.cn/). I received my Bachelor’s degree at [HFUT](https://www.hfut.edu.cn/) in 2024.
+I am currently a joint Ph.D. student in Data Science at [USTC](https://en.ustc.edu.cn/) and [CityU]([https://en.ustc.edu.cn/](https://www.cityu.edu.hk/)), supervised by [Prof. Tong Xu](http://staff.ustc.edu.cn/~tongxu/) in the [BDAA Lab](https://bigdata.ustc.edu.cn/) and [Prof. Xiangyu Zhao](https://zhaoxyai.github.io/) at AML Lab. Prior to starting my doctoral studies, I received my Bachelor’s degree at [HFUT](https://www.hfut.edu.cn/) in 2024.
 
 Links: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=limd4PkAAAAJ&view_op=list_works&gmla=AKzYXQ0B9jaTavaDN_bbP6jik8zwxnr7vtNpcqJLMRNcJfEw9JT3fPMsdW1YQUu0VpupW53q4wwiIIp6RqDq7uKdRL8SGObvSlPG2tj4hhk), [GitHub](https://github.com/PolarisLiu1)
 
@@ -34,6 +34,17 @@ My research interests focus on (Multi-modal) LLMs, Reinforcement Learning, Perso
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI'26</div><img src='images/lat.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PERMA: Benchmarking Personalized Memory Agents via Event-Driven Preference and Realistic Task Environments](https://arxiv.org/pdf/2603.23231)
+
+**Shuochen Liu**, Junyi Zhu, Long Shu, Junda Lin, Yuhao Chen, Haotian Zhang, Chao Zhang, Derong Xu, Jia Li, Bo Tang, Zhiyu Li, Feiyu Xiong, Enhong Chen, Tong Xu
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP'24</div><img src='images/framework2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
